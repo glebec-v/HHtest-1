@@ -19,7 +19,7 @@
 сформированные по-разному, одним общим способом (класс PlaneOfPoints ничего не знает о способе формирования множества
 точек).
 
-Для запуска программы нужно использовать приложенный ```out/artifacts/task1.jar``` файл. Если Java не установлена, JDK можно скачать тут: http://www.oracle.com/technetwork/java/javase/downloads/index.html и выполнить инструкции по установке
+Для запуска программы нужно использовать приложенный ```out/artifacts/task1_jar/task1.jar``` файл. Если Java не установлена, JDK можно скачать тут: http://www.oracle.com/technetwork/java/javase/downloads/index.html и выполнить инструкции по установке
 После установки JDK можно набрать в командной строке
 
 ```java -jar task1.jar```
